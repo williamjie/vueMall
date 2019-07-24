@@ -24,7 +24,7 @@ vue:
 cd vueMall(进入项目文件下)
 npm install （安装依赖）
 
-express:(进入项目文件下)
+express:(进入项目文件下)  服务端代码
 cd server
 npm install（安装依赖）
 
