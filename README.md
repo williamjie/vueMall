@@ -1,4 +1,4 @@
-## 这是一个基于vue全家桶+node.js+express+mysql实现的商城网站
+## 这是一个基于vue全家桶+node.js+express+mysql实现的商城网站  (代码质量极差，废弃)
 
 注意：本项目只是一个个人demo，只用于学习交流，故不在维护！
 
